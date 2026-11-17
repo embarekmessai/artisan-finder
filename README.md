@@ -1,3 +1,17 @@
+## To install & run
+
+Install dependencies
+
+````
+npm install
+````
+
+Run the app
+
+````
+npm run start
+````
+
 ## To test the API
 
 ````
